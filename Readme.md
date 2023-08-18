@@ -18,15 +18,17 @@ __Integrantes:__<br>
 
 | **Semana** | **Fecha**| **Scrum Master** |
 | ---- | ---- | ------ |
-| Semana 1  |  |Sebastian Galván |
-| Semana 2  |  |Mariano Farias |
-| Semana 3  |  |Franco Genre |
-| Semana 4  |  |Santiago Mendoza |
-| Semana 5  |  |Agustin P. Pesce |
-| Semana 6  |  |Cristian Sanchez |
-| Semana 7 |  |Braian Troncoso |
-| Semana 8 |  |Sebastian Galván |
+| Semana 1 |  |Braian Troncoso |
+| Semana 2  |  |Sebastian Galván |
+| Semana 3  |  |Mariano Farias |
+| Semana 4  |  |Franco Genre |
+| Semana 5  |  |Santiago Mendoza |
+| Semana 6  |  |Agustin P. Pesce |
+| Semana 7  |  |Cristian Sanchez |
+| Semana 8 |  |Braian Troncoso |
+| Semana 9 |  |Sebastian Galván |
 | Semana 9 |  |Mariano Farias |
 | Semana 10 |  |Franco Genre |
 | Semana 11 |  |Santiago Mendoza |
 | Semana 12 |  |Agustin P. Pesce |
+| Semana 13  |  |Cristian Sanchez |
