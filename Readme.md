@@ -30,5 +30,5 @@ __Integrantes:__<br>
 | Semana 9 | 16/10 |Mariano Farias |
 | Semana 10 | 23/10 |Franco Genre |
 | Semana 11 | 30/10 |Santiago Mendoza |
-| Semana 12 | 6/11 |Agustin P. Pesce |
+| Semana 12 | 06/11 |Agustin P. Pesce |
 | Semana 13  | 13/11 |Cristian Sanchez |
