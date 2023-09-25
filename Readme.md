@@ -27,8 +27,8 @@ __Integrantes:__<br>
 | Semana 7  | 25/09 |Cristian Sanchez |
 | Semana 8 | 02/10 |Braian Troncoso |
 | Semana 9 | 09/10 |Sebastian Galván |
-| Semana 9 | 16/10 |Mariano Farias |
-| Semana 10 | 23/10 |Franco Genre |
-| Semana 11 | 30/10 |Santiago Mendoza |
-| Semana 12 | 06/11 |Agustin P. Pesce |
-| Semana 13  | 13/11 |Cristian Sanchez |
+| Semana 10 | 16/10 |Mariano Farias |
+| Semana 11 | 23/10 |Franco Genre |
+| Semana 12 | 30/10 |Santiago Mendoza |
+| Semana 13 | 06/11 |Agustin P. Pesce |
+| Semana 14  | 13/11 |Cristian Sanchez |
