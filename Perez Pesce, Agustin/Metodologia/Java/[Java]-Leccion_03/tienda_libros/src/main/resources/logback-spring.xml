@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--==============CLASE 02 - MIERCOLES-23/08/2023===============-->
 <configuration>
 
     <!-- Appender for logging within the console -->
@@ -19,10 +18,7 @@
             <!-- %logger{36} - Abbreviate -->
 
             <!-- [Date and time] [Thread] LoggingLevel : LoggerName - Logging message -->
-            <!--<pattern>[%thread] %-5level: %logger - %msg%n</pattern>-->
-
-            <!--===============CLASE 04 - MIERCOLES-06/09/2023===============-->
-            <pattern>%msg</pattern>
+            <pattern>[%thread] %-5level: %logger - %msg%n</pattern>
         </encoder>
     </appender>
 
